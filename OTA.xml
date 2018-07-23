@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>MIUIPro 10 8.7.19</RomName>
+  <RomName>miuipro_port</RomName>
   <VersionName><![CDATA[ miuipro_v7.1.2_rolex_8.7.19_port ]]></VersionName>
   <VersionNumber type="integer">20180722</VersionNumber>
   <DirectUrl>https://qc3.androidfilehost.com/dl/DzMyGmjbySTKHTBiSXutPA/1532514451/5862345805528055835/miuipro_v7.1.2_rolex_8.7.19_port.zip</DirectUrl>
@@ -9,7 +9,7 @@
   <CheckMD5>553354692beebf0189b7d0362e7dbe2c</CheckMD5>
   <FileSize type="integer">539427133</FileSize>
   <Developer>JSPiRiT</Developer>
-  <WebsiteURL nil="true">miuipro.info/</WebsiteURL>
+  <WebsiteURL nil="true">miuipro.info</WebsiteURL>
   <DonateURL>example.com</DonateURL>
   <Changelog> EN: Added:
 - Setting the status bar (Reboot required)
