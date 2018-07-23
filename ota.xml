@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>MIUIPro</RomName>
+  <VersionName>8.7.19</VersionName>
+  <VersionNumber type="integer">20180722</VersionNumber>
+  <DirectUrl><![CDATA[http://dc5.androidfilehost.com/dl/8wVvsPUBTZ9oZ56YzAIb-A/1532559848/5862345805528055835/miuipro_v7.1.2_rolex_8.7.19_port.zip]]></DirectUrl>
+  <HttpUrl>http://www.androidfilehost.com/?fid=5862345805528055835</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>D574d7f7af5a11f518859807e1f1b730</CheckMD5>
+  <FileSize type="integer">1099106247</FileSize>
+  <Developer>JSPiRiT</Developer>
+  <WebsiteURL>miuipro.info</WebsiteURL>
+  <DonateURL nil="true" />
+  <Changelog>EN: Added:
+- Setting the status bar (Reboot required)
+- Adjust the number of lines in the curtain
+- Ability to backup any applications
+- Support for backup via USB 
+- Color settings of the elements when calling (Reboot required)
+- Button color
+- Button name color
+
+Updated:
+- Icons when calling
+- File hosts
+- Magisk 
+- Google Play
+- Google Play Services
+- WebViewGoogle
+- Theme components
+- Some patches
+
+Changes from Xiaomi:
+Added:
+- Setting the button in the curtain 
+
+Updated:
+- Cleaner
+- Music 
+RU: Добавлено:
+- Настройка стилей статус бара 7 андроид (Требуется перезагрузка)
+- Настройка количества строк в шторке
+- Возможность бекапить любые приложения
+- Поддержка бэкапа по USB
+- Настройки цвета элементов при звонке (Требуется перезагрузка)
+- Цвет кнопок
+- Цвет названия кнопок
+
+Обновлено:
+- Иконки при звонке
+- Файл hosts
+- Magisk
+- Google Play
+- Сервисы Google Play
+- WebViewGoogle
+- Компоненты тем
+- Некоторые патчи
+
+Изменения от Xiaomi:
+Добавлено:
+- Настройка кнопки в шторке
+
+Обновлено:
+- Очистка
+- Музыка
+
+
+Credits:
+- @MacTavishAO - fixes and OTA
+- @AryanPatidar - help with installer script
+- @ModiFlasher - help with kernel
+- @sunnyraj84348 - help with kernel
+</Changelog>
+</ROM>
