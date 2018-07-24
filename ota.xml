@@ -3,7 +3,7 @@
   <RomName>MIUIPro</RomName>
   <VersionName>8.7.19</VersionName>
   <VersionNumber type="integer">20180723</VersionNumber>
-  <DirectUrl><![CDATA[http://kme8lw.db.files.1drv.com/y4mP8umku-X4Vq7lqD2dP1Opd4OaBtWX9SejFpcXUXpmCnQSK8E4np7XITDSxbLQGM2BBgu3EUHVjhimdAs7MIsjc_thhZX7-HPn04eiDacR3hSDX4h5c1-6hwvgIWy8juZM3gX5qFvklkVbo_I_0W6QES2E2zgbwJUznbtNQtvA8EqmcTuFcHbqT46wut_TzzW/miuipro_v7.1.2_rolex_8.7.19_port.zip?download&psid=1]]<</DirectUrl>
+  <DirectUrl><![CDATA[https://doc-00-a8-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/8dorsn1va7b49fih3l1k5j0fmfj0d824/1532419200000/04830346480902469530/*/1TlNSBD_QrLsQuV7MKYwTU7jOuUBrtP6l?e=download]]<</DirectUrl>
   <HttpUrl><![CDATA[http://www.androidfilehost.com/?fid=5862345805528055835l]]></HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>D574d7f7af5a11f518859807e1f1b730</CheckMD5>
@@ -19,7 +19,6 @@
 - Color settings of the elements when calling (Reboot required)
 - Button color
 - Button name color
-
 Updated:
 - Icons when calling
 - File hosts
@@ -29,15 +28,12 @@ Updated:
 - WebViewGoogle
 - Theme components
 - Some patches
-
 Changes from Xiaomi:
 Added:
 - Setting the button in the curtain 
-
 Updated:
 - Cleaner
 - Music 
-
 RU: Добавлено:
 - Настройка стилей статус бара 7 андроид (Требуется перезагрузка)
 - Настройка количества строк в шторке
@@ -46,7 +42,6 @@ RU: Добавлено:
 - Настройки цвета элементов при звонке (Требуется перезагрузка)
 - Цвет кнопок
 - Цвет названия кнопок
-
 Обновлено:
 - Иконки при звонке
 - Файл hosts
@@ -56,16 +51,13 @@ RU: Добавлено:
 - WebViewGoogle
 - Компоненты тем
 - Некоторые патчи
-
 Изменения от Xiaomi:
 Добавлено:
 - Настройка кнопки в шторке
-
 Обновлено:
 - Очистка
 - Музыка
-
-
+ 
 Credits:
 - @MacTavishAO - fixes and OTA
 - @AryanPatidar - help with installer script
@@ -73,3 +65,4 @@ Credits:
 - @sunnyraj84348 - help with kernel
 </Changelog>
 </ROM>
+ 
