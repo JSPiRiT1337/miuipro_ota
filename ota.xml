@@ -11,58 +11,58 @@
   <Developer>JSPiRiT</Developer>
   <WebsiteURL>miuipro.info</WebsiteURL>
   <DonateURL nil="true" />
-  <Changelog>EN: Added:
-- Setting the status bar (Reboot required)
-- Adjust the number of lines in the curtain
-- Ability to backup any applications
-- Support for backup via USB 
-- Color settings of the elements when calling (Reboot required)
-- Button color
-- Button name color
-Updated:
-- Icons when calling
-- File hosts
-- Magisk 
-- Google Play
-- Google Play Services
-- WebViewGoogle
-- Theme components
-- Some patches
-Changes from Xiaomi:
-Added:
-- Setting the button in the curtain 
-Updated:
-- Cleaner
-- Music 
-RU: Добавлено:
-- Настройка стилей статус бара 7 андроид (Требуется перезагрузка)
-- Настройка количества строк в шторке
-- Возможность бекапить любые приложения
-- Поддержка бэкапа по USB
-- Настройки цвета элементов при звонке (Требуется перезагрузка)
-- Цвет кнопок
-- Цвет названия кнопок
-Обновлено:
-- Иконки при звонке
-- Файл hosts
-- Magisk
-- Google Play
-- Сервисы Google Play
-- WebViewGoogle
-- Компоненты тем
-- Некоторые патчи
-Изменения от Xiaomi:
-Добавлено:
-- Настройка кнопки в шторке
-Обновлено:
-- Очистка
-- Музыка
+  <Changelog>EN: Added:</br>
+- Setting the status bar (Reboot required)</br>
+- Adjust the number of lines in the curtain</br>
+- Ability to backup any applications</br>
+- Support for backup via USB </br>
+- Color settings of the elements when calling (Reboot required)</br>
+- Button color</br>
+- Button name color</br></br>
+Updated:</br>
+- Icons when calling</br>
+- File hosts</br>
+- Magisk </br>
+- Google Play</br>
+- Google Play Services</br>
+- WebViewGoogle</br>
+- Theme components</br>
+- Some patches</br></br>
+Changes from Xiaomi:</br>
+Added:</br>
+- Setting the button in the curtain </br>
+Updated:</br>
+- Cleaner</br>
+- Music </br>
+RU: Добавлено:</br>
+- Настройка стилей статус бара 7 андроид (Требуется перезагрузка)</br>
+- Настройка количества строк в шторке</br>
+- Возможность бекапить любые приложения</br>
+- Поддержка бэкапа по USB</br>
+- Настройки цвета элементов при звонке (Требуется перезагрузка)</br>
+- Цвет кнопок</br>
+- Цвет названия кнопок</br></br>
+Обновлено:</br>
+- Иконки при звонке</br>
+- Файл hosts</br>
+- Magisk</br>
+- Google Play</br>
+- Сервисы Google Play</br>
+- WebViewGoogle</br>
+- Компоненты тем</br>
+- Некоторые патчи</br></br>
+Изменения от Xiaomi:</br>
+Добавлено:</br></br>
+- Настройка кнопки в шторке</br>
+Обновлено:</br>
+- Очистка</br>
+- Музыка</br></br>
  
-Credits:
-- @MacTavishAO - fixes and OTA
-- @AryanPatidar - help with installer script
-- @ModiFlasher - help with kernel
-- @sunnyraj84348 - help with kernel
+Credits:</br>
+- @MacTavishAO - fixes and OTA</br>
+- @AryanPatidar - help with installer script</br>
+- @ModiFlasher - help with kernel</br>
+- @sunnyraj84348 - help with kernel</br>
 </Changelog>
 </ROM>
  
