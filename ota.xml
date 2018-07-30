@@ -1,69 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>8.7.19</VersionName>
-  <VersionNumber type="integer">20180729</VersionNumber>
+  <VersionName>8.7.26</VersionName>
+  <VersionNumber type="integer">20180728</VersionNumber>
   <DirectUrl>https://netix.dl.sourceforge.net/project/miui-port/MIUIPro/miuipro_v7.1.2_rolex_8.7.19_port.zip</DirectUrl>
   <HttpUrl>http://www.androidfilehost.com/?fid=5862345805528055835l</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>D574d7f7af5a11f518859807e1f1b730</CheckMD5>
-  <FileSize type="integer">1099106247</FileSize>
+  <CheckMD5>313f0f8e9c605e9fb7133e88d3d70575</CheckMD5>
+  <FileSize type="integer">1090564126</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-    EN: Added:</br>
-- Setting the status bar (Reboot required)</br>
-- Adjust the number of lines in the curtain</br>
-- Ability to backup any applications</br>
-- Support for backup via USB </br>
-- Color settings of the elements when calling (Reboot required)</br>
-- Button color</br>
-- Button name color</br></br>
-Updated:</br>
-- Icons when calling</br>
-- File hosts</br>
-- Magisk </br>
-- Google Play</br>
-- Google Play Services</br>
-- WebViewGoogle</br>
-- Theme components</br>
-- Some patches</br></br>
-Changes from Xiaomi:</br>
-Added:</br>
-- Setting the button in the curtain </br>
-Updated:</br>
-- Cleaner</br>
-- Music </br>
-RU: Добавлено:</br>
-- Настройка стилей статус бара 7 андроид (Требуется перезагрузка)</br>
-- Настройка количества строк в шторке</br>
-- Возможность бекапить любые приложения</br>
-- Поддержка бэкапа по USB</br>
-- Настройки цвета элементов при звонке (Требуется перезагрузка)</br>
-- Цвет кнопок</br>
-- Цвет названия кнопок</br></br>
-Обновлено:</br>
-- Иконки при звонке</br>
-- Файл hosts</br>
-- Magisk</br>
-- Google Play</br>
-- Сервисы Google Play</br>
-- WebViewGoogle</br>
-- Компоненты тем</br>
-- Некоторые патчи</br></br>
-Изменения от Xiaomi:</br>
-Добавлено:</br></br>
-- Настройка кнопки в шторке</br>
-Обновлено:</br>
-- Очистка</br>
-- Музыка</br></br>
- 
-Credits:</br>
-- @MacTavishAO - fixes and OTA</br>
-- @AryanPatidar - help with installer script</br>
-- @ModiFlasher - help with kernel</br>
-- @sunnyraj84348 - help with kernel</br>
-</Changelog>
+   
+  </Changelog>
 </ROM>
  
