@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.7.26_port</VersionName>
+  <VersionName>miuipro_v7.1.2_rolex_8.8.2_port</VersionName>
   <VersionNumber type="integer">20180728</VersionNumber>
   <DirectUrl>https://datapacket.dl.sourceforge.net/project/miui-port/MIUIPro/miuipro_v7.1.2_rolex_8.7.26_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/miui-port/files/MIUIPro/miuipro_v7.1.2_rolex_8.7.26_port.zip/download</HttpUrl>
@@ -12,7 +12,84 @@
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-   first ota
+   EN: Changes to the MiuiPro team:
+
+Added:
+
+Color settings for items in the diler
+- The name of the city, time, etc.
+- Sim, grilles, etc.
+The ability to include an incoming call is always in full screen (Instead of a pop-up window)
+
+Updated:
+
+Google games
+Google Apps
+Web View
+BusyBox
+Arrangement of elements in the dealer
+
+Corrected:
+
+The quality and size of photos on some devices
+Full-screen photo application in real time
+MiDrop icon in explorer, on some devices
+Muting the sound when setting the time for the bucket
+Update request time (Enlarged)
+Transfer
+
+Changes from Xiaomi:
+Added:
+
+Setting the sound to SMS
+Portrait mode for devices with one camera
+Portrait mode for front camera
+Optimized:
+
+The accuracy of the map can be changed
+Corrected:
+
+Identify the sender of the message
+  RU: Изменения от команды MiuiPro:
+
+  Добавлено:
+  
+  Настройки цвета элементов в дайлере
+  — Имени абонента, времени и тд
+  — Номера, набора и тд
+  — Сим, решетки и тд
+  Возможность включить входящий вызов всегда во весь экран (Взамен всплывающего окна)
+
+  Обновлено:
+  
+  Google play
+  Google play services
+  Web view
+  BusyBox
+  Расположение элементов в дайлере
+
+  Исправлено:
+
+  Качество и размер фото на некоторых устройствах
+  Применение полноэкранного фото в реальном времени
+  Иконка MiDrop в проводнике, на некоторых устройствах
+  Отключение звука при настройке времени на dipper
+  Включение/Отключение режима без звука из панели громкости Андроид 6
+  Время запросов в обновлении (Увеличено)
+  Перевод
+  
+  Изменения от Xiaomi:
+  Добавлено:
+  
+  Настройка звука на смс
+  Портретный режим для устройств с одной камерой
+  Портретный режим для фронтальной камеры
+  Оптимизировано:
+
+  Алгоритм калибровки магнитного измерителя силы и алгоритм компаса могут улучшить точность применения карты
+  Исправлено:
+  
+  Определение отправителя сообщения
   </Changelog>
 </ROM>
  
