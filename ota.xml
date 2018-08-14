@@ -14,10 +14,10 @@
   <Changelog> 
    Added:
 
-    SMS delivery settings
-	Display of localized items in the Mi Cloud menu
-	Convert units to Mi Cloud galleries
-	Increased desktop grid for devices with a large screen
+    	- SMS delivery settings
+	- Display of localized items in the Mi Cloud menu
+	- Convert units to Mi Cloud galleries
+	- Increased desktop grid for devices with a large screen
   </Changelog>
 </ROM>
  
