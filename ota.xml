@@ -12,123 +12,12 @@
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-   EN: Changes by the MiuiPro team:
+   Added:
 
-Added:
-
-    Color settings for items in the diler
-
-    - The name of the city, time, etc.
-
-    - Sim, grilles, etc.
-
-    The ability to include an incoming call is always in full screen (Instead of a pop-up window)
-
-Updated:
-
-
-    Google games
-
-    Google Apps
-
-    Web View
-
-    Arrangement of elements in the dealer
-
-Corrected:
-
-    The quality and size of photos on some devices
-
-    Full-screen photo application in real time
-
-    MiDrop icon in explorer, on some devices
-
-    Muting the sound when setting the time for the bucket
-
-    Update request time (Enlarged)
-
-    Transfer
-
-Changes by Xiaomi:
-
-Added:
-
-
-    Setting the sound to SMS
-
-    Portrait mode for devices with one camera
-
-    Portrait mode for front camera
-
-Optimized:
-
-
-    The accuracy of the map can be changed
-
-Corrected:
-
-    Identify the sender of the message
-
-RU🇷🇺: Изменения от команды MiuiPro:
-
-  Добавлено:
-  
-  Настройки цвета элементов в дайлере
-  — Имени абонента, времени и тд
-
-  — Номера, набора и тд
-  
-  — Сим, решетки и тд
-  Возможность включить входящий вызов всегда во весь экран (Взамен всплывающего окна)
-
-  Обновлено:
-  
- 
-    Google play
-  
-    Google play services
- 
-    Web view
-  
-    Расположение элементов в дайлере
-
-  Исправлено:
-
- 
-    Качество и размер фото на некоторых устройствах
-  
-    Применение полноэкранного фото в реальном времени
-  
-    Иконка MiDrop в проводнике, на некоторых устройствах
-  
-    Отключение звука при настройке времени на dipper
-  
-    Включение/Отключение режима без звука из панели громкости Андроид 6
-  
-    Время запросов в обновлении (Увеличено)
-  
-    Перевод
-  
-  Изменения от Xiaomi:
-    
-  Добавлено:
-  
-  
-    Настройка звука на смс
-  
-    Портретный режим для устройств с одной камерой
-  
-    Портретный режим для фронтальной камеры
-    
-  Оптимизировано:
-
-  
-    Алгоритм калибровки магнитного измерителя силы и алгоритм компаса могут улучшить точность применения карты
-    
-  Исправлено:
-  
- 
-    Определение отправителя сообщения
+    SMS delivery settings
+	Display of localized items in the Mi Cloud menu
+	Convert units to Mi Cloud galleries
+	Increased desktop grid for devices with a large screen
   </Changelog>
 </ROM>
  
