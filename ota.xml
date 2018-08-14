@@ -12,7 +12,7 @@
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-EN     __Added:__
+EN     Added:
 
 	  - SMS delivery settings
 	
@@ -20,7 +20,7 @@ EN     __Added:__
 	
 	  - Convert units to Mi Cloud galleries
 	  
-	__Updated__:
+	Updated:
 	 
 	  - Google Play
 	  
@@ -28,7 +28,7 @@ EN     __Added:__
 	  
 	  - Translation
 	  
-	__Fixed:__
+	Fixed:
 	  
 	  - Changed the location of the elements in the call window
 	  
@@ -38,14 +38,14 @@ EN     __Added:__
 	  
 	  - Turn on the flashlight on the lock screen
 	  
- RU    __Добавлено:__	
+ RU    Добавлено:	
 	  - Настройки звука о доставке SMS 
 	  
 	  - Отображение локализованых пунктов в меню Mi Cloud
 	  
 	  - Перевод единиц измерения в Mi Cloud галереи  
 	
-	__Обновлено:__
+	Обновлено:
 	  
 	  - Google Play
 	  
@@ -53,7 +53,7 @@ EN     __Added:__
 	  
 	  - Перевод
 	  
-	__Исправлено:__
+	Исправлено:
 
 	  - Изменено расположение элементов в окне вызова 
 
