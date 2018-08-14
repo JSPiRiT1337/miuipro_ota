@@ -12,18 +12,56 @@
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-   Added:
+EN     __Added:__
 
 	  - SMS delivery settings
 	
 	  - Display of localized items in the Mi Cloud menu
 	
 	  - Convert units to Mi Cloud galleries
+	  
+	__Updated:__
+	 
+	  - Google Play
+	  
+	  - WebView
+	  
+	  - Translation
+	  
+	__Fixed:__
+	  
+	  - Changed the location of the elements in the call window
+	  
+	  - Icons and mask themes for Chinese changes
+	  
+	  - Not important notifications in QS
+	  
+	  - Turn on the flashlight on the lock screen
+	  
+ RU    __Добавлено:__	
+	  - Настройки звука о доставке SMS 
+	  
+	  - Отображение локализованых пунктов в меню Mi Cloud
+	  
+	  - Перевод единиц измерения в Mi Cloud галереи  
 	
-	  - Increased desktop grid for devices with a large screen
+	__Обновлено:__
 	  
-   __Updated__:
+	  - Google Play
 	  
+	  - WebView
+	  
+	  - Перевод
+	  
+	__Исправлено:__
+
+	  - Изменено расположение элементов в окне вызова 
+
+	  - Иконки и маски тем под китайские изменения 
+
+	  - Не важные уведомления в шторке 
+
+	  - Включение фонарика на экране блокировки
   </Changelog>
 </ROM>
  
