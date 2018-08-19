@@ -1,67 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.8.9_port</VersionName>
+  <VersionName>miuipro_v7.1.2_rolex_8.8.16_port</VersionName>
   <VersionNumber type="integer">20180814</VersionNumber>
   <DirectUrl>https://netcologne.dl.sourceforge.net/project/team-tentacles/PORTS/MIUIPro/miuipro_v7.1.2_rolex_8.8.9_port.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/miui-port/files/MIUIPro/miuipro_v7.1.2_rolex_8.8.9_port.zip/download</HttpUrl>
+  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.16_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>13ed9eed0ea48f18c880125ff6a26015</CheckMD5>
-  <FileSize type="integer">1118183424</FileSize>
+  <FileSize type="integer">1122643968</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-EN     Added:
+Добавлено:
+	Пункт "Безопастность Wi-Fi" при проверке антивируса
+	Перевод единиц измерения в новом виджете очистки
 
-	  - SMS delivery settings
-	
-	  - Display of localized items in the Mi Cloud menu
-	
-	  - Convert units to Mi Cloud galleries
-	  
-	Updated:
-	 
-	  - Google Play
-	  
-	  - WebView
-	  
-	  - Translation
-	  
-	Fixed:
-	  
-	  - Changed the location of the elements in the call window
-	  
-	  - Icons and mask themes for Chinese changes
-	  
-	  - Not important notifications in QS
-	  
-	  - Turn on the flashlight on the lock screen
-	  
- RU    Добавлено:	
-	  - Настройки звука о доставке SMS 
-	  
-	  - Отображение локализованых пунктов в меню Mi Cloud
-	  
-	  - Перевод единиц измерения в Mi Cloud галереи  
-	
-	Обновлено:
-	  
-	  - Google Play
-	  
-	  - WebView
-	  
-	  - Перевод
-	  
-	Исправлено:
+Обновлено:
+	Google Play
+	WebView 
+	Размер часов и отступ в шторке
+	Фон при звонке без полноэкранного фото
 
-	  - Изменено расположение элементов в окне вызова 
-
-	  - Иконки и маски тем под китайские изменения 
-
-	  - Не важные уведомления в шторке 
-
-	  - Включение фонарика на экране блокировки
+Исправлено:
+	Выравнены элементы в статус баре в стиле iOS
   </Changelog>
 </ROM>
  
