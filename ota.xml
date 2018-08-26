@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.8.16_port</VersionName>
+  <VersionName>miuipro_v7.1.2_rolex_8.8.23_port</VersionName>
   <VersionNumber type="integer">20180819</VersionNumber>
-  <DirectUrl>https://datapacket.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.16_port.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.16_port.zip/download</HttpUrl>
+  <DirectUrl>https://phoenixnap.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.23_port.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.23_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>63306d8268e55bef9806508b21af4559</CheckMD5>
-  <FileSize type="integer">1122643968</FileSize>
+  <CheckMD5>40db1e49a629530b5969a544855298b8</CheckMD5>
+  <FileSize type="integer">1228152832</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
