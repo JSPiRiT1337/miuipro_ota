@@ -2,7 +2,7 @@
 <ROM>
   <RomName>MIUIPro</RomName>
   <VersionName>miuipro_v7.1.2_rolex_8.8.23_port</VersionName>
-  <VersionNumber type="integer">20180819</VersionNumber>
+  <VersionNumber type="integer">20180826</VersionNumber>
   <DirectUrl>https://phoenixnap.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.23_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.23_port.zip/download</HttpUrl>
   <Android>7.1.2</Android>
@@ -12,18 +12,26 @@
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-Добавлено:
-	Пункт "Безопастность Wi-Fi" при проверке антивируса
-	Перевод единиц измерения в новом виджете очистки
-
-Обновлено:
-	Google Play
-	WebView 
-	Размер часов и отступ в шторке
-	Фон при звонке без полноэкранного фото
-
-Исправлено:
-	Выравнены элементы в статус баре в стиле iOS
+• В связи с изменениями от компании Xiaomi в пункте Возможность скрывать ярлыки "Пользовательских" приложений. 
+Перед установкой обновления необходимо отключить скрытие "Пользовательских приложений" в настройках (Настройки -> Рабочий Стол -> Список приложений для скрытия). 
+При игнорировании данного сообщения пропадёт возможность отобразить ярлык скрытого приложения. 
+-Добавлено 
+• Все настройки в антивирусе 
+• Все настройки в очистке 
+Обновлено 
+• Google play 
+• Web view 
+• Magisk (Для прохождения проверки SafetyNet) 
+• Возможность скрывать ярлыки приложений (Только системные) 
+• Некоторые патчи 
+• Перевод 
+Исправлено 
+• Ошибка в браузере
+• Сортировка треков в плеере 
+Удалено 
+• Настройка звука при удалении 
+• Возможность скрывать ярлыки "Пользовательских" приложений 
+• Корейский язык
   </Changelog>
 </ROM>
  
