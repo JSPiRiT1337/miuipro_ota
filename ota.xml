@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.8.23_port</VersionName>
-  <VersionNumber type="integer">20180826</VersionNumber>
-  <DirectUrl>https://phoenixnap.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.23_port.zip</DirectUrl>
-  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.23_port.zip/download</HttpUrl>
+  <VersionName>miuipro_v7.1.2_rolex_8.8.30_port</VersionName>
+  <VersionNumber type="integer">20180902</VersionNumber>
+  <DirectUrl>https://datapacket.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.30_port.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>40db1e49a629530b5969a544855298b8</CheckMD5>
-  <FileSize type="integer">1228152832</FileSize>
+  <CheckMD5>d9a92ef58e893c36257a83cff92b8339</CheckMD5>
+  <FileSize type="integer">1232011264</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-• В связи с изменениями от компании Xiaomi в пункте Возможность скрывать ярлыки "Пользовательских" приложений. 
-Перед установкой обновления необходимо отключить скрытие "Пользовательских приложений" в настройках (Настройки -> Рабочий Стол -> Список приложений для скрытия). 
-При игнорировании данного сообщения пропадёт возможность отобразить ярлык скрытого приложения. 
--Добавлено 
-• Все настройки в антивирусе 
-• Все настройки в очистке 
-Обновлено 
-• Google play 
-• Web view 
-• Magisk (Для прохождения проверки SafetyNet) 
-• Возможность скрывать ярлыки приложений (Только системные) 
-• Некоторые патчи 
-• Перевод 
-Исправлено 
-• Ошибка в браузере
-• Сортировка треков в плеере 
-Удалено 
-• Настройка звука при удалении 
-• Возможность скрывать ярлыки "Пользовательских" приложений 
-• Корейский язык
+*Добавленно
+    Перевод информации о радио модуле
+
+    Возможность отключения уведомлений от системных приложений
+
+    Возвращены смайлы в смс
+
+*Обновлено
+
+    Google play
+
+    Webview
+
+    Некторые иноки
+
+    Некоторые патчи
+
+    Перевод
+
+*Исправлено
+
+    Ошибка клонирования на некоторых устройствах
+
+*Удалено
+
+    Реклама из ускорения игр
+
+*Добавлено Xiaomi
+
+    Возможность отключать переключение на предыдущее приложение жестом
   </Changelog>
 </ROM>
  
