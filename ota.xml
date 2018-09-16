@@ -1,47 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.8.30_port</VersionName>
+  <VersionName>miuipro_v7.1.2_rolex_8.9.13_port</VersionName>
   <VersionNumber type="integer">20180902</VersionNumber>
   <DirectUrl>https://datapacket.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.30_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>d9a92ef58e893c36257a83cff92b8339</CheckMD5>
-  <FileSize type="integer">1232011264</FileSize>
+  <FileSize type="integer">1244110848</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-*Добавленно
-    Перевод информации о радио модуле
 
-    Возможность отключения уведомлений от системных приложений
-
-    Возвращены смайлы в смс
-
-*Обновлено
-
-    Google play
-
-    Webview
-
-    Некторые иноки
-
-    Некоторые патчи
-
-    Перевод
-
-*Исправлено
-
-    Ошибка клонирования на некоторых устройствах
-
-*Удалено
-
-    Реклама из ускорения игр
-
-*Добавлено Xiaomi
-
-    Возможность отключать переключение на предыдущее приложение жестом
   </Changelog>
 </ROM>
  
