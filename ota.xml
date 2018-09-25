@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.9.13_port</VersionName>
-  <VersionNumber type="integer">20180902</VersionNumber>
-  <DirectUrl>https://datapacket.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.8.30_port.zip</DirectUrl>
+  <VersionName>miuipro_v7.1.2_rolex_8.9.20_port</VersionName>
+  <VersionNumber type="integer">20180925</VersionNumber>
+  <DirectUrl>https://netix.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.9.20_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>d9a92ef58e893c36257a83cff92b8339</CheckMD5>
-  <FileSize type="integer">1244110848</FileSize>
+  <CheckMD5>2df7c14f3627ede139ed21d76d156b0b</CheckMD5>
+  <FileSize type="integer">1,235,897,987</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
+*Добавлено
+
+    Возвращены настройки Google в основном меню настроек
+
+    Иконки для некоторых приложений
+
+*Обновлено
+
+    Вернул сток bootanimation - бутлуп с bootanimation от миуипро 
+
+    Погода
+
+    Google Play
+
+    Сервисы Google Play
+    
+    Webview
+
+    Некоторые патчи
+
+    Перевод
 
   </Changelog>
 </ROM>
