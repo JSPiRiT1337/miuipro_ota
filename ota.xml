@@ -2,7 +2,7 @@
 <ROM>
   <RomName>MIUIPro</RomName>
   <VersionName>miuipro_v7.1.2_rolex_8.10.11_port</VersionName>
-  <VersionNumber type="integer">20180924</VersionNumber>
+  <VersionNumber type="integer">20181014</VersionNumber>
   <DirectUrl>https://netix.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.9.20_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/</HttpUrl>
   <Android>7.1.2</Android>
