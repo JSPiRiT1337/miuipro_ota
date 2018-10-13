@@ -1,38 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.9.20_port</VersionName>
-  <VersionNumber type="integer">20180924jspirit</VersionNumber>
+  <VersionName>miuipro_v7.1.2_rolex_8.10.11_port</VersionName>
+  <VersionNumber type="integer">20180924</VersionNumber>
   <DirectUrl>https://netix.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.9.20_port.zip</DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>2df7c14f3627ede139ed21d76d156b0b</CheckMD5>
-  <FileSize type="integer">1235897987</FileSize>
+  <FileSize type="integer">1251624049</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-*Добавлено
+Добавлено 
 
-    Возвращены настройки Google в основном меню настроек
+    . Включение/Выключение отображения иконок сети вертикально или горизонтально
 
-    Иконки для некоторых приложений
+    . Настройка стилей статус бара
 
-*Обновлено
-
-    Вернул сток bootanimation - бутлуп с bootanimation от миуипро 
-
-    Погода
-
-    Google Play
-
-    Сервисы Google Play
+    . Новые темы 
+   
     
-    Webview
+Обновлено 
 
-    Некоторые патчи
+    . Google play 
 
-    Перевод
+    . Сервисы Google play 
+
+    . Webview 
+
+    . Погода 
+
+    . Некоторые патчи 
+
+    . Иконки некоторых приложений 
+
+    . Перевод 
+    
+    
+Исправлено 
+    
+    . Настройки предупреждений 0 низком заряде (He отключалось окно)
+
+    . Наложение текста на иконки в док баре на английском 
 
   </Changelog>
 </ROM>
