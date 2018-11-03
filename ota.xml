@@ -1,52 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUIPro</RomName>
-  <VersionName>miuipro_v7.1.2_rolex_8.10.11_port</VersionName>
-  <VersionNumber type="integer">20181014</VersionNumber>
+  <VersionName>miuipro_v7.1.2_rolex_8.11.1_port</VersionName>
+  <VersionNumber type="integer">20181013</VersionNumber>
   <DirectUrl>https://netcologne.dl.sourceforge.net/project/team-tentacles/PORTs/MIUIPro/miuipro_v7.1.2_rolex_8.10.11_port.zip </DirectUrl>
   <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MIUIPro/</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>1fe415bcf2ff3bafcc7a812d83cd6984</CheckMD5>
-  <FileSize type="integer">1251624049</FileSize>
+  <FileSize type="integer">1214062318</FileSize>
   <Developer>JSPiRiT</Developer>
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog> 
-Добавлено 
+RU: Добавлено:
 
-    . Включение/Выключение отображения иконок сети вертикально или горизонтально
+    Процент батареи внутри графического индикатора
 
-    . Настройка стилей статус бара
+    Прокрутка рабочих столов
 
-    . Новые темы 
-   
+    Возможность отключать интернет у системных приложений
+
+*Обновлено:
+
+    Google Play
+
+    WebView
+
+    Патчи
+
+    Перевод
     
-Обновлено 
+*Исправлено:
 
-    . Google play 
+    Живые обои
 
-    . Сервисы Google play 
-
-    . Webview 
-
-    . Погода 
-
-    . Некоторые патчи 
-
-    . Иконки некоторых приложений 
-
-    . Перевод 
+    Блокировка зарубежных номеров
     
-    
-Исправлено 
-    
-    . Настройки предупреждений 0 низком заряде (He отключалось окно)
+*Убрано:
 
-    . Наложение текста на иконки в док баре на английском 
-
-Удалено
+    Настройки стиля батареи
     
-    . Бутанимация от MIUIPro - вызывала бутулп
+*Удалено:
+
+    Bootanimation от MIUIPro - вызывала bootloop
+    
+
+EN: Added:
+
+     The percentage of battery inside the graphic indicator
+
+     Scrolling Desktops
+
+     Ability to turn off the Internet from system applications
+
+* Updated:
+
+     Google play
+
+     Webview
+
+     Patches
+
+     Transfer
+    
+*Fixed:
+
+     Live wallpaper
+
+     Blocking foreign numbers
+    
+* Removed:
+
+     Battery style settings
+    
+* Deleted:
+
+     Bootanimation by MIUIPro - caused bootloop
   </Changelog>
 </ROM>
  
